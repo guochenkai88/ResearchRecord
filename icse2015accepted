@@ -1,0 +1,429 @@
+Conferences accepted papers
+==
+----
+ICSE 2015
+---
+
+> 
+
+ website: [http://2015.icse-conferences.org/program/accepted-contributions/accepted-tr-papers](http://2015.icse-conferences.org/program/accepted-contributions/accepted-tr-papers)
+
+
+Mining Apps for Abnormal Usage of Sensitive Data
+
+Vitalii Avdiienko, Konstantin Kuznetsov, Alessandra Gorla, Andreas Zeller, Steven Arzt, Siegfried Rasthofer, Eric Bodden
+
+ 
+Efficient Scalable Verification of LTL Specifications
+
+Luciano Baresi, Mohammad Mehdi, Pourhashem Kallehbasti, Matteo Rossi
+
+ 
+Helping Developers Help Themselves: Automatic Decomposition of Code Review Changesets
+
+Mike Barnett, Christian Bird, João Brunet, Shuvendu K. Lahiri
+
+ 
+Symbolic Model Checking of Product-Line Requirements Using SAT-Based Methods
+
+Shoham Ben-David, Baruch Sterin, Joanne M. Atlee, Sandy Beidu
+
+ 
+Coexecutability for Efficient Verification of Data Model Updates
+
+Ivan Bocic, Tevfik Bultan
+
+ 
+Measuring Software Redundancy
+
+Antonio Carzaniga, Andrea Mattavelli, Mauro Pezzè
+
+ 
+Assert Use in GitHub Projects
+
+Casey Casalnuovo, Premkumar Devanbu, Abilio Oliveira, Vladimir Filkov, Baishakhi Ray
+
+ 
+Dynamic Data Flow Testing of Object Oriented Systems
+
+Giovanni Denaro, Alessandro Margara, Mauro Pezze, Mattia Vivanti
+
+ 
+Automated Data Structure Generation: Refuting Common Wisdom
+
+Kyle Dewey, Lawton Nichols, Ben Hardekopf
+
+ 
+AutoCSP: Automatically Retrofitting CSP to Web Applications
+
+Mattia Fazzini, Prateek Saxena, Alessandro Orso
+
+ 
+Lightweight Adaptive Filtering for Efficient Learning and Updating of Probabilistic Models
+
+Antonio Filieri, Lars Grunske, Alberto Leva
+
+ 
+Safe Memory-Leak Fixing for C Programs
+
+Qing Gao, Yingfei Xiong, Yaqing Mi, Lu Zhang, Weikun Yang, Zhaoping Zhou, Bing Xie, Hong Mei
+
+ 
+Making System User Interactive Tests Repeatable: When and What Should we Control?
+
+Zebao Gao, Yalan Liang, Myra Cohen, Atif Memon, Zhen Wang
+
+ 
+Revisiting the Impact of Classification Techniques on the Performance of Defect Prediction Models
+
+Baljinder Ghotra, Shane McIntosh, Ahmed E. Hassan
+
+ 
+Data-Delineation in Software Binaries and its Application to Buffer-Overrun Discovery
+
+Denis Gopan, Evan Driscoll, Ducson Nguyen, Dimitri Naydich, Alexey Loginov, David Melski
+
+ 
+Work Practices and Challenges in Pull-Based Development: The Integrator’s Perspective
+
+Georgios Gousios, Andy Zaidman, Margaret-Anne Storey, Arie van Deursen
+
+ 
+Truth in Advertising: The Hidden Cost of Mobile Ads for Software Developers
+
+Jiaping Gui, Stuart Mcilroy, Meiyappan Nagappan, William G.J. Halfond
+
+ 
+Combining Multi-Objective Search and Constraint Solving for Configuring Large Software Product Lines
+
+Christopher Henard, Mike Papadakis, Mark Harman, Yves Le Traon
+
+ 
+The Art of Testing Less without Sacrificing Quality
+
+Kim Herzig, Michaela Greiler, Jacek Czerwonka, Brendan Murphy
+
+ 
+GPredict: Generic Predictive Concurrency Analysis
+
+Jeff Huang, Qingzhou Luo, Grigore Rosu
+
+ 
+Learning Combinatorial Interaction Test Generation Strategies using Hyperheuristic Search
+
+Yue Jia, Myra Cohen, Mark Harman, Justyna Petke
+
+ 
+From Developer Networks to Verified Communities: A Fine-Grained Approach
+
+Mitchell Joblin, Wolfgang Mauerer, Sven Apel, Janet Siegmund, Dirk Riehle
+
+ 
+Open Source-Style Collaborative Development Practices in Commercial Projects Using GitHub
+
+Eirini Kalliamvakou, Daniela Damian, Kelly Blincoe, Leif Singer, Daniel German
+
+ 
+Dynamic Generation of Likely Invariants for Multithreaded Programs
+
+Markus Kusano, Arijit Chattopadhyay, Chao Wang
+
+ 
+Borrowing from the Crowd: A Study of Recombination in Software Design Competitions
+
+Thomas D. LaToza, Micky Chen, Luxi Jiang, Mengyao Zhao, Andre van der Hoek
+
+ 
+Why Good Developers Write Bad Code: an Observational Case Study of the Impacts of Organizational Factors on Software Quality 
+
+Mathieu Lavallee, Pierre N. Robillard
+
+ 
+Tempura: Temporal Dimension for IDEs
+
+Yun Young Lee, Darko Marinov, Ralph E. Johnson
+
+ 
+IccTA: Detecting Inter-Component Privacy Leaks in Android Apps
+
+Li Li, Alexandre Bartel, Tegawendé Bissyande, Jacques Klein, Yves Le Traon, Steven Arzt, Siegfried Rasthofer, Eric Bodden, Damien Octeau, Patrick McDaniel
+
+ 
+What Makes a Great Software Engineer?
+
+Paul L. Li, Andrew J. Ko, Jiamin Zhu
+
+ 
+Morpheus: Variability-Aware Refactoring in the Wild
+
+Joerg Liebig, Andreas Janker, Florian Garbe, Sven Apel, Christian Lengauer
+
+ 
+Empirical Study on Leading Indicators for Cost of Formal Software Verification
+
+Daniel Matichuk, Toby Murray, June Andronick, Ross Jeffery, Gerwin Klein, Mark Staples
+
+ 
+DirectFix: Looking for Simple Program Repairs
+
+Sergey Mechtaev, Jooyong Yi, Abhik Roychoudhury
+
+ 
+Does Automated Refactoring Obviate Systematic Editing?
+
+Na Meng, Lisa Hua, Miryung Kim, Kathryn S. McKinley
+
+ 
+Alloy*: A General-Purpose Higher-Order Relational Constraint Solver 
+
+Aleksandar Milicevic, Joseph P. Near, Eunsuk Kang, Daniel Jackson
+
+ 
+How Can I Use This Method?
+
+Laura Moreno, Gabriele Bavota, Massimiliano Di Penta, Rocco Oliveto, Andrian Marcus
+
+ 
+Stuck and Frustrated or In Flow and Happy: Sensing Developers’ Emotions and Progress
+
+Sebastian C. Müller, Thomas Fritz
+
+ 
+A Comparative Study of Programming Languages in Rosetta Code
+
+Sebastian Nanz, Carlo A. Furia
+
+ 
+Graph-based Statistical Language Model for Code
+
+Anh Tuan Nguyen, Tien N. Nguyen
+
+ 
+CARAMEL: Detecting and Fixing Performance Problems That Have Non-Intrusive Fixes 
+
+Adrian Nistor, Po-Chun Chang, Cosmin Radoi, Shan Lu
+
+ 
+Detecting Inconsistencies in JavaScript MVC Applications
+
+Frolin Ocariza, Karthik Pattabiraman, Ali Mesbah
+
+ 
+Composite Constant Propagation: Application to Android Inter-Component Communication Analysis
+
+Damien Octeau, Daniel Luchaup, Matthew Dering, Somesh Jha, Patrick McDaniel
+
+ 
+Gray Computing: An Analysis of Computing with Background JavaScript Tasks
+
+Yao Pan, Jules White, Yu Sun, Jeff Gray
+
+ 
+Trivial Compiler Equivalence: A Large Scale Empirical Study of a Simple Fast and Effective Equivalent Mutant Detection Technique
+
+Mike Papadakis, Yue Jia, Mark Harman, Yves Le Traon
+
+ 
+ZoomIn: Discovering Failures by Detecting Wrong Assertions
+
+Fabrizio Pastore, Leonardo Mariani
+
+ 
+LACE2: Better Privacy-Preserving Data Sharing for Cross Project Defect Prediction
+
+Fayola Peters, Tim Menzies, Lucas Layman
+
+ 
+Hercules: Reproducing Crashes in Real-World Application Binaries
+
+Van-Thuan Pham, Wei Boon Ng, Konstantin Rubinov, Abhik Roychoudhury
+
+ 
+Discovering Information Explaining API Types Using Text Classification
+
+Gayane Petrosyan, Martin P. Robillard, Renato De Mori
+
+ 
+TypeDevil: Dynamic Type Inconsistency Analysis for JavaScript
+
+Michael Pradel, Parker Schuh, Koushik Sen
+
+ 
+Specifying Event-Based Systems with a Counting Fluent Temporal Logic
+
+Germán Regis, Renzo Degiovanni, Nicolás D'Ippolito, Nazareno Aguirre
+
+ 
+Compositional Symbolic Execution with Memoized Replay
+
+Rui Qiu, Guowei Yang, Corina S. Pasareanu, Sarfraz Khurshid
+
+ 
+Developing and Evaluating Software Engineering Process Theories
+
+Paul Ralph
+
+ 
+Presence-Condition Simplification in Highly Configurable Systems
+
+Alexander von Rhein, Alexander Grebhahn, Sven Apel, Norbert Siegmund, Dirk Beyer, Thorsten Berger
+
+ 
+Tricorder: Building a Program Analysis Ecosystem
+
+Caitlin Sadowski, Jeffrey van Gogh, Ciera Jaspan, Emma Söderberg, Collin Winter
+
+ 
+An Information Retrieval Approach for Regression Test Prioritization Based on Program Changes
+
+Ripon Saha, Lingming Zhang, Sarfraz Khurshid, Dewayne Perry
+
+ 
+Are Students Representatives of Professionals in Software Engineering Experiments?
+
+Iflaah Salman, Ayse Tosun Misirli, Natalia Juristo
+
+ 
+Tracking Static Analysis Violations Over Time to Capture Developer Characteristics
+
+Max Schaefer, Arthur Baars, Anders Henriksen, Pavel Avgustinov, Galen Menzel, Oege de Moor, Julian Tibble, Greg Lavender
+
+ 
+Views on Internal and External Validity in Empirical Software Engineering 
+
+Janet Siegmund, Norbert Siegmund, Sven Apel
+
+ 
+Build it Yourself! Homegrown Tools in a Large Software Company
+
+Edward K. Smith, Christian Bird, Thomas Zimmermann
+
+ 
+Combining Symbolic Execution and Model Checking for Data Flow Testing
+
+Ting Su, Zhoulai Fu, Geguang Pu, Jifeng He, Zhendong Su
+
+ 
+Relifix: Automated Repair of Software Regressions
+
+Shin Hwei Tan, Abhik Roychoudhury
+
+ 
+The Impact of Mislabelling on the Performance and Interpretation of Defect Prediction Models
+
+Chakkrit Tantithamthavorn, Shane McIntosh, Ahmed E. Hassan, Akinori Ihara, Kenichi Matsumoto
+
+ 
+RECONTEST: Effective Regression Testing of Concurrent Programs
+
+Valerio Terragni, Shing-Chi Cheung, Charles Zhang
+
+ 
+When and Why Your Code Starts to Smell Bad
+
+Michele Tufano, Fabio Palomba, Gabriele Bavota, Rocco Oliveto, Massimiliano Di Penta, Andrea De Lucia, Denys Poshyvanyk
+
+ 
+Cascade: A Universal Type Qualifier Inference Tool
+
+Mohsen Vakilian, Amarin Phaosawasdi, Michael D. Ernst, Ralph E. Johnson
+
+ 
+Automated Decomposition of Build Targets
+
+Mohsen Vakilian, Raluca Sauciuc, David Morgenthaler, Vahab Mirrokni
+
+ 
+How Much Up-front? A Grounded Theory of Agile Architecture 
+
+Michael Waterman, James Noble, George Allan
+
+ 
+A Flexible and Non-intrusive Approach for Computing Complex Structural Coverage Metrics
+
+Michael W. Whalen, Suzette Person, Neha Rungta, Matt Staats, Daniela Grijincu
+
+ 
+"No PAIN, No Gain? The utility of PArallel fault INjections"
+
+Stefan Winter, Oliver Schwahn, Roberto Natella, Neeraj Suri, Domenico Cotroneo
+
+ 
+Database-Backed Program Analysis for Scalable Error Propagation
+
+Cathrin Weiss, Cindy Rubio-González, Ben Liblit
+
+ 
+DASE: Document-Assisted Symbolic Execution for Improving Automated Software Testing
+
+Edmund Wong, Lei Zhang, Song Wang, Taiyue Liu, Lin Tan
+
+ 
+Automated Modularization of GUI Test Cases
+
+Rahulkrishna Yandrapally, Giriprasad Sridhara, Saurabh Sinha
+
+ 
+Static Control-Flow Analysis of User-Driven Callbacks in Android Applications
+
+Shengqian Yang, Dacong Yan, Haowei Wu, Yan Wang, Atanas Rountev
+
+ 
+AppContext: Differentiating Malicious and Benign Mobile App Behaviors Using Context
+
+Wei Yang, Xusheng Xiao, Benjamin Andow, Sihan Li, Tao Xie, William Enck
+
+ 
+A Synergistic Analysis Method for Explaining Failed Regression Tests
+
+Qiuping Yi, Zijiang Yang, Jian Liu, Chen Zhao, Chao Wang
+
+ 
+Supporting Selective Undo in a Code Editor
+
+Young Seok Yoon, Brad A. Myers
+
+ 
+Do Security Patterns Really Help Designers?
+
+Koen Yskout, Riccardo Scandariato, Wouter Joosen
+
+ 
+Does the failing test execute a single or multiple faults? An approach to classifying failing tests
+
+Zhongxing Yu, Chenggang Bai, Kai-Yuan Cai
+
+ 
+ReCBuLC: Reproducing Concurrency Bugs Using Local Clocks
+
+Xiang Yuan, Chenggang Wu, Zhenjiang Wang, Jianjun Li, Pen-Chung Yew, Jeff Huang, Xiaobing Feng, Yanyan Lan, Yunji Chen, Yong Guan
+
+ 
+Interactive Code Review for Systematic Changes
+
+Tianyi Zhang, Myoungkyu Song, Joseph Pinedo, Miryung Kim
+
+ 
+Regular Property Guided Dynamic Symbolic Execution
+
+Yufeng Zhang, Zhenbang Chen, Ji Wang, Wei Dong, Zhiming Liu
+
+ 
+An Empirical Study on Fixing Real Bugs
+
+Hao Zhong, Zhendong Su
+
+ 
+Learning to Log: Helping Developers Make Informed Logging Decisions
+
+Jieming Zhu, Pinjia He, Qiang Fu, Hongyu Zhang, Michael R. Lyu, Dongmei Zhang
+
+ 
+A Programming Model for Sustainable Software
+
+Haitao Steve Zhu, Chaoren Lin, Yu David Liu
+
+ 
+A Genetic Algorithm for Detecting Significant Floating-Point Inaccuracies
+
+Daming Zou, Ran Wang, Yingfei Xiong, Lu Zhang, Zhendong Su, Hong Mei
